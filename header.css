@@ -1,0 +1,11 @@
+.header 
+{
+  padding: 8px;
+  text-align: center;
+  height: 310px;
+  width: 80%;
+  background-image:url("Images/header.gif");
+  color: purple;
+  font-size: 40px;
+}
+
